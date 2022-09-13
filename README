@@ -1,0 +1,7 @@
+## Added by Julien Arino, 22 Nov 2010
+
+1. The directory public_www is the root of your website and appears on the web as http://mh1015.math.umanitoba.ca/~your_username.
+2. By default, public_www contains a file robots.txt which forbids compliant search engines from indexing your pages. To make it available to google, you need to remove or edit this file (you can for example choose to allow certain subdirectories and disallow others).
+3. By default, public_www contains a index.html which will display as the root of your personal web page site. If your files were copied from your previous site, then the file is likely the one you had before.
+4. PHP is enabled in all of your public_www domain. If you want any advice on using PHP, ask me (Julien).
+5. If you need to use MYSQL (database), let me know.
